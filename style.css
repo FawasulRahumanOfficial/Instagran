@@ -1,0 +1,154 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	text-align: center;
+	align-items: center;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;;
+}
+#spotlight{
+	background: #ffffff;
+	margin: auto;
+    width: 510px;
+	height: 100vh;
+}
+#spotlight .login{
+	margin-top: 60px;
+	border: 0.5px solid rgb(219, 219, 219);
+	width: 500px;
+	height: 550px;
+}
+#spotlight .login .top{
+	
+}
+#spotlight .login .top img{
+	width: 350px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#spotlight .login .middle{
+	margin-bottom: 30px;
+}
+#spotlight .login .middle label{
+	
+}
+#spotlight .login .middle label.id{
+	
+}
+#spotlight .login .middle label input{
+	width: 400px;
+	height: 50px;
+	margin-bottom: 10px;
+	background: #f7f8fa;
+	border: .1px solid rgb(219, 219, 219);
+	border-radius: 5px;
+}
+#spotlight .login .middle label.id input{
+	text-align: left;
+	font-size: 15px;
+	padding-left: 10px;
+}
+#spotlight .login .middle label.password{
+	
+}
+#spotlight .login .middle label.password input{
+	text-align: left;
+	font-size: 15px;
+	padding-left: 10px;
+}
+#spotlight .login .middle button{
+	width: 415px;
+	height: 50px;
+	background-color: #5faaff;
+	border: none;
+	border-radius: 15px;
+	margin-top: 20px;
+}
+#spotlight .login .middle button a{
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 500;
+}
+#spotlight .login span.hr{
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-left: 120px;
+	padding-right: 120px;
+	padding-bottom: 30px;
+}
+#spotlight .login span.hr hr{
+	width: 100px;
+}
+#spotlight .login .bottom{
+	line-height: 20px;
+}
+#spotlight .login .bottom .label{
+	display: inline-flex;
+	align-items: center;
+	text-align: center;
+	padding-bottom: 25px;
+}
+#spotlight .login .bottom .label img{
+	width: 23px;
+	margin-right: 10px;
+}
+#spotlight .login .bottom .label a{
+	font-size: 20px;
+	font-weight: 500;
+}
+#spotlight .login .bottom .label1{
+	
+}
+#spotlight .login .bottom .label1 a{
+	font-size: 15px;
+	font-weight: 200;
+	color: #000;
+}
+#spotlight .signup{
+	margin-top: 20px;
+	border: 0.5px solid rgb(219, 219, 219);
+	width: 500px;
+	height: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+#spotlight .signup .label{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-left: 110px;
+	padding-right: 110px;
+}
+#spotlight .signup .label h5{
+	color: #000000;
+	font-size: 20px;
+	font-weight: 400;
+}
+#spotlight .signup .label a{
+	font-size: 20px;
+	font-weight: 500;
+	color: rgb(0, 149, 246);
+}
+#spotlight .get{
+	width: 500px;
+	padding-top: 20px;
+}
+#spotlight .get span{
+	font-size: 20px;
+	font-weight: 400;
+}
+#spotlight .get .flex{
+	padding-top: 20px;
+}
+#spotlight .get .flex img{
+	
+}
+#spotlight .get .flex img.google_play{
+	width: 190px;
+}
+#spotlight .get .flex img.microsoft{
+	width: 160px;
+}
